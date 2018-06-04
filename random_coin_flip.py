@@ -11,7 +11,7 @@ with open('SOWPODS.txt', 'r') as f:
 		line = f.readline()
 # create contestants from the first 1,000 entries in the large word list
 next_round = []
-for i in range(0,20000):
+for i in range(0,1000):
 	next_round.append(random.choice(file1_list))
 # print(next_round)
 play = True
