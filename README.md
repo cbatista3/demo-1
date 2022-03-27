@@ -1,1 +1,1 @@
-# demo-1
+# Hi there. This is a stoopid test repo I created. Nothing in here but a Python script I wrote to test random coin flips repeatedly. Enjoy!
